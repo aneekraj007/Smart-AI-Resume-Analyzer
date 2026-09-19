@@ -110,7 +110,6 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
 
 | **🌟 Technology**    | **💼 Role**                                                             |  
 |-----------------------|-------------------------------------------------------------------------|  
-| [**Streamlit**](https://streamlit.io/)   | Builds interactive and user-friendly web apps for resume analysis.     |  
 | [**HTML**](https://developer.mozilla.org/en-US/docs/Learn/HTML)  | Provides the basic structure for web pages.                             |  
 | [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)      | Adds styling and layouts to the frontend.                               |  
 | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) | Enables interactivity and dynamic behavior for the web pages.          |  
